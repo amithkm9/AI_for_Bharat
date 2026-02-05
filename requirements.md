@@ -3,7 +3,7 @@
 ## 1. Overview
 
 ### 1.1 Purpose
-This document outlines the requirements for LearnSign - an AI-powered platform designed to teach **Indian Sign Language (ISL)** to children ages 5-15+. Built by students for a hackathon using **5 core AWS services**.
+This document outlines the requirements for LearnSign - an AI-powered platform designed to teach **Indian Sign Language (ISL)** to children ages 1-15+. Built by students for a hackathon using **5 core AWS services**.
 
 ---
 
@@ -31,7 +31,7 @@ The platform combines:
 
 | User Type | Description | Age Range |
 |-----------|-------------|-----------|
-| **Primary Users** | Children learning ISL | 5-15 years |
+| **Primary Users** | Children learning ISL | 1-15 years |
 | **Secondary Users** | Parents and teachers | Adults |
 | **Geographic Focus** | India | All regions |
 
